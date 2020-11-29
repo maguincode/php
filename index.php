@@ -1,5 +1,5 @@
 <?php
 
-    echo"Helow Wolrd!";
+    echo"By_maguinn!";
     
   ?>  
